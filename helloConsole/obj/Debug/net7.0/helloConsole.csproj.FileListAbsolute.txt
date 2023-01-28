@@ -1,0 +1,15 @@
+/Users/kseniaalekseeva/Documents/C#/lection1/helloConsole/bin/Debug/net7.0/helloConsole
+/Users/kseniaalekseeva/Documents/C#/lection1/helloConsole/bin/Debug/net7.0/helloConsole.deps.json
+/Users/kseniaalekseeva/Documents/C#/lection1/helloConsole/bin/Debug/net7.0/helloConsole.runtimeconfig.json
+/Users/kseniaalekseeva/Documents/C#/lection1/helloConsole/bin/Debug/net7.0/helloConsole.dll
+/Users/kseniaalekseeva/Documents/C#/lection1/helloConsole/bin/Debug/net7.0/helloConsole.pdb
+/Users/kseniaalekseeva/Documents/C#/lection1/helloConsole/obj/Debug/net7.0/helloConsole.csproj.AssemblyReference.cache
+/Users/kseniaalekseeva/Documents/C#/lection1/helloConsole/obj/Debug/net7.0/helloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kseniaalekseeva/Documents/C#/lection1/helloConsole/obj/Debug/net7.0/helloConsole.AssemblyInfoInputs.cache
+/Users/kseniaalekseeva/Documents/C#/lection1/helloConsole/obj/Debug/net7.0/helloConsole.AssemblyInfo.cs
+/Users/kseniaalekseeva/Documents/C#/lection1/helloConsole/obj/Debug/net7.0/helloConsole.csproj.CoreCompileInputs.cache
+/Users/kseniaalekseeva/Documents/C#/lection1/helloConsole/obj/Debug/net7.0/helloConsole.dll
+/Users/kseniaalekseeva/Documents/C#/lection1/helloConsole/obj/Debug/net7.0/refint/helloConsole.dll
+/Users/kseniaalekseeva/Documents/C#/lection1/helloConsole/obj/Debug/net7.0/helloConsole.pdb
+/Users/kseniaalekseeva/Documents/C#/lection1/helloConsole/obj/Debug/net7.0/helloConsole.genruntimeconfig.cache
+/Users/kseniaalekseeva/Documents/C#/lection1/helloConsole/obj/Debug/net7.0/ref/helloConsole.dll
